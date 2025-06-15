@@ -29,7 +29,7 @@ void wyswietlTablice(int tablica[]) {
 }
 
 int main() {
-    int tablica[ROZMIAR] = {1, 2, 3, -4, 50, 6, 7, 8, 9, 10};
+    int tablica[ROZMIAR] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
     int opcja;
 
     printf("PROSTA TABLICA\n\n");
